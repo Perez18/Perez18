@@ -11,6 +11,6 @@ I am a young man who loves to program and develop a new project to continue impr
  * 📌 NODE JS
  * 📌 VUEJS
 
-``` 🌱 I’m currently learning Reactjs,Angular ```
+``` 🌱 I’m currently learning Angular ```
 
 
