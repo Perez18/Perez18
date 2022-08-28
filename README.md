@@ -3,12 +3,12 @@ I am a young man who loves to program and develop a new project to continue impr
 
 
 #### Skills  🛠️:
- * 📌 PHP
- * 📌 LARAVEL
- * 📌 REACT JS
- * 📌 API REST
- * 📌 REDUX 
- * 📌 NODE JS
+ * 📌 Php
+ * 📌 Laravel
+ * 📌 React JS
+ * 📌 Api Rest
+ * 📌 Redux
+ * 📌 Node js
 
 ``` 🌱 I’m currently learning Angular ```
 
