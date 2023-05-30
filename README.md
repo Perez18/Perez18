@@ -5,6 +5,7 @@ I am a young man who loves to program and develop a new project to continue impr
 #### Skills  🛠️:
  📌 React JS
  📌 Node JS
+ 📌.NET
  📌 Laravel
  📌 Git
  📌 SQL(SQL Server, MySQl y Oracle)
